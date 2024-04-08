@@ -50,7 +50,7 @@
 - QuadTree：表示四叉树 zbuffer 的四叉树类，拥有四叉树节点 
 - QuadTreeNode。(QuadZbuffer：  为了加速实现的基于循环而非递归的四叉树类)
 - Octree：表示物体八叉树的类，用于八叉树节点。
-### 其他问价
+### 其他文件
 - Model：  表示读取后的 Obj 文件。
 - Utils.h：  记录系统时间。
 

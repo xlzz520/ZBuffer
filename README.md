@@ -19,7 +19,7 @@
 
 ## 使用说明
 
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 例如:
 ./CG_ZBUFFER 1 ../model/bunny.obj，此时界面如下：
